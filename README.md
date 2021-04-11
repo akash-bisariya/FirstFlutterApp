@@ -1,6 +1,6 @@
 # flutter_app
 
-A new Flutter application.
+A Sample Flutter Application to learn Flutter from basic.
 
 ## Getting Started
 
